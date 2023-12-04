@@ -6,8 +6,8 @@ categories = ["command-line-utilities", "funny"]
 keywords = ["meow", "beep", "sheep", "cow", "cli"]
 description = "A funny code what opens the 'Beep beep Im a sheep' video."
 edition = "2021" 
-homepage = ""
-repository = ""
+homepage = "https://github.com/FemLolStudio/do-meow"
+repository = "https://github.com/FemLolStudio/do-meow"
 license = "MIT"
 readme = "README.md"
 
