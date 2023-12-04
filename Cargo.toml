@@ -1,8 +1,8 @@
 [package]
 name = "do-meow"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["FémLol Stúdió <femlol1femlol@gmail.com>"]
-categories = ["command-line-utilities", "funny"]
+categories = ["command-line-utilities", "games"]
 keywords = ["meow", "beep", "sheep", "cow", "cli"]
 description = "A funny code what opens the 'Beep beep Im a sheep' video."
 edition = "2021" 
